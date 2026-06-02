@@ -1,0 +1,4 @@
+Deployment Frequency to jak często wdrażasz kod na produkcję.  
+Lead Time to czas od momentu, gdy developer napisze kod, do momentu, gdy kod żyje na produkcji.  
+MTTR (Mean Time To Recovery) to średni czas, jaki zajmuje naprawienie problemu na produkcji.  
+Change Failure Rate to procent wdrożeń, które wprowadzają błędy na produkcję.  
